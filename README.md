@@ -24,6 +24,55 @@ train_test_split We are making accuracy and prediction in Iris project through I
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ 
+ ## Dataset
+
+- If you have this dataset type this code on your python compiler.
+
+```bash
+
+from sklearn.datasets import load_iris
+
+iris = load_iris()
+
+```
+
+- If you are in Linux distribution 
+
+```bash
+
+  $ python3 app.py
+
+```
+ 
+ ## Clone
+
+```bash
+
+  git clone https://gh repo clone DaramNikhil/Iris-Flower-Classification-Project
+
+```
+
+- To turn on your local machine, make sure you have every requirement.
+
+```bash
+
+    $ export Flask_app = app
+
+    $ flask run
+
+      * Running on http:/ /127.0.0.1:5000/
+
+```
+
+- If you are in Linux distribution 
+
+```bash
+
+  $ python3 app.py
+
+```
+
 
 ## Hi I'm Daram Nikhil 👋
 
